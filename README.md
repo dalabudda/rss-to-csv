@@ -1,1 +1,1 @@
-# rss-to-scv
+# rss-to-csv
